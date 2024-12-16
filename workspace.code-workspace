@@ -1,0 +1,31 @@
+{
+  "folders": [
+    {
+      "path": "dummy_serial",
+      "name": "Dummy serial test"
+    },
+    {
+      "path": "node",
+      "name": "Nodes"
+    },
+    {
+      "path": "data_ingress",
+      "name": "Data ingress on server"
+    },
+    {
+      "path": "./",
+      "name": "All code"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "random": "cpp",
+      "limits": "cpp",
+      "tuple": "cpp",
+      "type_traits": "cpp",
+      "ranges": "cpp",
+      "cmath": "cpp",
+      "functional": "cpp"
+    }
+  }
+}

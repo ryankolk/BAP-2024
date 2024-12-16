@@ -1,0 +1,12 @@
+influx:
+  bucket: bucket
+  org: organization
+  token: token
+  url: url
+
+serial:
+  baud_rate: 115200
+  port: /dev/ttyUSB0
+
+log:
+  level: ERROR # DEBUG, INFO, WARN, ERROR
